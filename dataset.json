@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
+  "config_name": "Restaurant Social Ghosts in Oklahoma, US",
+  "export_job_id": "d139af0a-8ce5-4098-a799-0f666990e02e",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 276391,
+  "location_name": "Oklahoma",
+  "location_type": "state",
+  "repo_name": "restaurant-social-ghosts-in-oklahoma-us-sample-276391",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/276391/beamstation_276391_restaurants-us-ok_SAMPLE_DIST.csv",
+  "sample_pct": 9.3,
+  "sample_records": 12,
+  "sample_sha256": "b271c98225031e2bf6e5e7b1fad40c6a84b6fb02a293e101ad7c4812df707d10",
+  "sample_size_bytes": 57534,
+  "total_records": 129,
+  "updated_at": "2026-04-08T05:05:55.669043+00:00"
+}
