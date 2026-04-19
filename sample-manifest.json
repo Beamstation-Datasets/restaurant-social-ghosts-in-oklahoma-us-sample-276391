@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d139af0a-8ce5-4098-a799-0f666990e02e",
+  "export_job_id": "42a275b7-2d29-4fe7-89db-56ee61ace1d7",
   "id_short": 276391,
-  "published_at": "2026-04-11T07:19:46Z",
+  "published_at": "2026-04-19T07:48:14Z",
   "repo_name": "restaurant-social-ghosts-in-oklahoma-us-sample-276391",
   "sample_asset_name": "beamstation_276391_restaurants-us-ok_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/276391/beamstation_276391_restaurants-us-ok_SAMPLE_DIST.csv",
-  "sample_records": 12,
-  "sample_sha256": "b271c98225031e2bf6e5e7b1fad40c6a84b6fb02a293e101ad7c4812df707d10",
-  "sample_size_bytes": 57534,
-  "total_records": 129
+  "sample_records": 10,
+  "sample_sha256": "67862da6e37fce9e5aaa6215ab7b5bb7eadb1b0a9c582b25a9182b00d8768711",
+  "sample_size_bytes": 50656,
+  "total_records": 106
 }
