@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Oklahoma, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 1 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `276391` |
 | Location | Oklahoma |
 | Category | Restaurants |
-| Full dataset size | 106 records |
-| Free sample size | 10 records (9.43%) |
-| Last export | 2026-04-15T09:24:16.004075+00:00 |
+| Full dataset size | 8 records |
+| Free sample size | 1 records (12.5%) |
+| Last export | 2026-04-22T16:48:47.236287+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-oklahoma-us-sample-276391/releases/download/sample-latest/beamstation_276391_restaurants-us-ok_SAMPLE_DIST.csv) |
 
 ## What is in this sample
